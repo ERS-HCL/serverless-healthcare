@@ -1,6 +1,0 @@
-## Downloaded from internet and modified python Lambda script for Cognito pre-sign up trigger -Userpool
-def lambda_handler(event, context):
-    event['response'] = {
-        "autoConfirmUser": True
-    }
-    return event

@@ -1,5 +1,7 @@
-# healthcare
-Healthcare app using AWS serverless architecture
+# Healthcare service using serverless architecture
+
+Build microservice using serverless architecture, that collect various health and activity data from users and provides an analytical health insight
+
 
 # Design Diagram
 
@@ -181,5 +183,8 @@ AWS IoT core execute rules to store heartrate data into Heartrate DynamoDB table
 ``` 
 
  
+ # Reference
  
+ https://aws.amazon.com/blogs/big-data/how-to-build-a-front-line-concussion-monitoring-system-using-aws-iot-and-serverless-data-lakes-part-1/
+
  
